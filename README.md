@@ -3,13 +3,11 @@
 ## Overview
 This project implements a secure code-fixing API designed to detect and remediate vulnerable code patterns using:
 
-- A lightweight local model (safe for Mac M2 8GB)
+- A lightweight local model 
 - Rule-based RAG (Retrieval-Augmented Generation)
 - FastAPI backend with structured input/output JSON
 - Logged inference metrics
 - Assignment-compliant tests (`test_local.py` and `pytest`)
-
-This repository was built according to the "Assignment 1.0.pdf" specification.
 
 ---
 
