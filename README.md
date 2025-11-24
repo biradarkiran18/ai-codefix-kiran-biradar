@@ -89,7 +89,7 @@ Includes:
 ## Project Structure
 
 ```
-ai-codefix-kiran-biradar/
+ai-codefix-assignment-kiran-biradar/
 │
 ├── app/
 │   ├── __init__.py
@@ -119,8 +119,9 @@ ai-codefix-kiran-biradar/
 ## Clone repo
 
 ```bash
-git clone https://github.com/biradarkiran18/ai-codefix-kiran-biradar.git
-cd ai-codefix-kiran-biradar
+git clone https://github.com/biradarkiran18/ai-codefix-assignment-kiran-biradar.git
+cd ai-codefix-assignment-kiran-biradar
+
 ```
 
 ## Create and activate venv
@@ -187,24 +188,5 @@ Expected:
 1 passed
 ```
 
----
 
-# Final Submission Checklist
-
-- [x] Uses local small model
-- [x] Implements `/local_fix`
-- [x] Strict input/output format
-- [x] Metrics logged
-- [x] RAG implemented
-- [x] `test_local.py` passes
-- [x] `pytest` passes
-- [x] README included
-- [x] Folder clean, ready for grading
-
----
-
-# Notes
-- `__init__.py` intentionally left empty (only marks package).
-- Model chosen is safe for my Mac M2 8GB without GPU.
-- All code follows exact assignment constraints.
 
