@@ -1,0 +1,4 @@
+SQL injection guidance:
+- Use parameterized queries / prepared statements
+- Never concatenate user input into SQL strings
+- Validate and sanitize inputs, use least privilege for DB user

@@ -1,0 +1,12 @@
+timestamp,language,cwe,model_used,input_tokens,output_tokens,latency_ms
+1763967713,python,CWE-89,Salesforce/codegen-350M-mono,221,733,30964
+1763967736,javascript,CWE-79,Salesforce/codegen-350M-mono,198,710,22195
+1763968558,python,CWE-89,Salesforce/codegen-350M-mono,221,733,22992
+1763968580,javascript,CWE-79,Salesforce/codegen-350M-mono,198,710,21751
+1763975321,python,CWE-89,Salesforce/codegen-350M-mono,513,711,10993
+1763975331,javascript,CWE-79,Salesforce/codegen-350M-mono,490,689,10301
+1763975496,python,CWE-89,Salesforce/codegen-350M-mono,513,711,11367
+1763975507,javascript,CWE-79,Salesforce/codegen-350M-mono,490,689,10626
+1763975812,python,CWE-89,Salesforce/codegen-350M-mono,394,594,15799
+1763975824,javascript,CWE-79,Salesforce/codegen-350M-mono,349,549,11719
+1763976175,python,CWE-89,Salesforce/codegen-350M-mono,302,502,22946

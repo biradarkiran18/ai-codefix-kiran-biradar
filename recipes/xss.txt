@@ -1,0 +1,4 @@
+XSS guidance:
+- Escape user-provided content before rendering
+- Use templating frameworks' auto-escaping
+- Validate and sanitize input where appropriate

@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+transformers>=4.30
+sentence-transformers
+faiss-cpu
+requests
+pydantic
+torch>=2.0
+python-multipart
